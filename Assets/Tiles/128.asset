@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6855fd8fa78f384b8c087d1361b8e73, type: 3}
   m_Name: 128
   m_EditorClassIdentifier: 
-  backgroundColor: {r: 0.9333334, g: 0.7960785, b: 0.45882356, a: 1}
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
   textColor: {r: 0.9686275, g: 0.96470594, b: 0.9450981, a: 1}
+  tileImage: {fileID: 21300000, guid: 1997f150cc365fb4b8a94927275be985, type: 3}
