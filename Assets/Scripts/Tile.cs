@@ -70,8 +70,6 @@ public class Tile : MonoBehaviour
         StartCoroutine(Animate(cell.transform.position, true));
     }
 
-
-
     private IEnumerator Animate(Vector3 to, bool merging)
     {
         float elapsed = 0f;
