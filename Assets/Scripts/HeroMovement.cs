@@ -18,4 +18,3 @@ public class HeroMovement : MonoBehaviour
         Debug.Log("Moving at speed: " + speed);
     }
 }
-
