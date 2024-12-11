@@ -13,3 +13,10 @@ Experience our game directly in your web browser:
 
 ## Example Game Play
 ![Mergemigthy3-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/399b0cc5-d756-4dd2-863e-aabff396a1ef)
+
+## Presentation
+  <div>
+    <img src="https://github.com/user-attachments/assets/f28ebefe-7d14-4a8c-9539-8966c552f734" width="200">
+  </div>
+https://github.com/user-attachments/assets/0c18a8d6-664c-4e17-a2fc-3ef67d5d8780
+
